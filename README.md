@@ -22,7 +22,7 @@ pip install pillow
 2. Run the script and follow prompts:
 
 ```bash
-python3 run.py
+python3 Image_Encryption.py
 ```
 
 Choose whether to encrypt or decrypt and provide the image path and key/operation value.
